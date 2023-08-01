@@ -1,0 +1,3 @@
+category,description,value,units
+transport_ff,petrol,1.85,L/day
+transport_ev,electricity,39.2,kWh/day

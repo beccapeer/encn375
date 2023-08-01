@@ -1,0 +1,3 @@
+category,description,intensity,unit
+transport_ff,petrol,2.46,kgCO2eq/L
+transport_ev,electricity,0.088,kgCO2eq/kWh
