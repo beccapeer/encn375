@@ -5,7 +5,7 @@ Jupyter notebook for ENCN375 Lecture A
 
 Use the button below to access the notebook in your browser (no installations required!)
 
-Networks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beccapeer/encn375/HEAD?labpath=Networks.ipynb)
+2023: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beccapeer/encn375/HEAD?labpath=2023_tutorial.ipynb)
 
 ## Local Installation:
 
