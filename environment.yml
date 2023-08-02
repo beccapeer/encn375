@@ -1,19 +1,9 @@
-name: encn375
+name: tutorial
 channels:
   - defaults
 dependencies:
-  - python=3.8
-  - rasterstats
-  - shapely
   - pandas
-  - pyproj
-  - fiona
+  - scipy
+  - matplotlib
   - numpy
-  - rtree
-  - geopandas
-  - osmnx
-  - pip
-  - jupyter
-  - cmasher
-  - seaborn
-prefix: /Users/rap103/opt/anaconda3/envs/encn375
+prefix: /Users/rap103/opt/anaconda3/envs/tutorial
